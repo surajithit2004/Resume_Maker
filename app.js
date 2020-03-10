@@ -70,6 +70,7 @@ $(document).ready(function () {
 
         var len = $('#work').serializeArray().length;
         var div = len / 3;
+        // $('#w1').text(len);
         $('#w' + div).html(
 
             '<div class="form-group">' +
@@ -196,6 +197,7 @@ $(document).ready(function () {
         $("#form3").hide();
         $("#form4").hide();
         $("#result_container1").hide();
+
         $('#dash_container').hide();
         event.preventDefault();
     });

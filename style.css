@@ -154,10 +154,14 @@ button#create_resume {
 	border-radius: 1px; 
 }
 
+
+
 /*end template styling*/
 
 
+
 /*Form Styling*/
+
 
 #forms h1.text-center {
 	margin-left: 3vw;
@@ -194,6 +198,7 @@ button#create_resume {
 	color: white;
 
 }
+
 
 .form_pagination {
 	height: 8vw;
